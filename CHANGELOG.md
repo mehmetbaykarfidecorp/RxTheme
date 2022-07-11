@@ -1,5 +1,11 @@
 # changelog
 
+## 6.5.0
+
+- Update RXSwift
+- Update Swift Tools
+- Remove Cocoapods
+
 ## 6.0.0
 
 - Injected a setter before binding
